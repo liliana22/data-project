@@ -1,0 +1,23 @@
+  html {
+    font-family: GillSans,Calibri,Trebuchet,sans-serif;
+    font-style: green; 
+    background-color: #FF8A65;
+   }
+  
+  .card-title {
+    color: blue !important;
+  }
+  
+  .card-image-thang {
+    width: 150px;
+    height: 200px;
+  }
+  .nav-wrapper{
+        background-color: #FF3D00;
+        font-family: cursive; 
+
+  }
+  
+.footer-copyright {
+  ont-family: GillSans,
+}
